@@ -1,4 +1,3 @@
-test123
 # 1
 - 智能是 <u style="color:red">知识与智力</u> 的总和
 - 人工智能是用人工的方法在 <u style="color:red">机器（计算机）</u> 上实现的智能；或者说是人们使 <u style="color:red">机器</u> 具有类似于人的智能。
@@ -60,7 +59,8 @@ test123
 - <u style="color:red;">NPS（new path states）</u>表包含了等待搜索的状态，其后裔状态还未被搜索到，即未被生成扩展。
 - 在具体求解中，能够利用与该问题有关的信息来简化搜索过程，称此类信息为<u style="color:red;">启发信息</u>。
 - 当一个搜索算法在最短路径存在时能保证找到它，就称该算法是<u style="color:red;">可采纳的</u>。
-  
+
+---
 <div style="page-break-after: always;"></div>
 
 # 7
@@ -72,7 +72,7 @@ test123
 4.简述A算法和A*算法的区别
 ***p137 5.1  修道士和野人问题 试写出A*搜索树***
 
-
+---
 <div style="page-break-after: always;"></div>
 
 # 8
@@ -83,6 +83,7 @@ test123
 - 选择操作也称为<u style="color:red;">复制</u>操作，即从当前群体中按照<u style="color:red;">一定概率</u>选出优良的个体，使它们有机会作为父代繁殖下一代子孙。
 - 双种群遗传算法建立两个<u style="color:red;">遗传算法群体</u>，分别独立地运行复制、交叉、变异操作，同时当每一代运行结束以后，选择两个种群中的<u style="color:red;">随机个体</u>及<u style="color:red;">最优个体</u>分别交换。
 
+---
 <div style="page-break-after: always;"></div>
 
 # 9
@@ -92,6 +93,7 @@ test123
 - 提升高频部分，使信号的频谱变得平坦，保持在低频到高频的整个频带中，能用同样的信噪比求频谱，便于频谱分析或声道参数分析的数据预处理方式叫<u style="color:red;">预加重</u>。
 - 隐马尔科夫模型中的“隐”指的是马尔科夫模型的状态集合<u style="color:red;">观测不到</u>。
 
+---
 <div style="page-break-after: always;"></div>
 
 # 10
@@ -103,6 +105,7 @@ test123
 - <u style="color:red;">随机神经网络</u>中，神经元状态为1是随机的，服从一定的概率分布。
 - Boltzmann机是<u style="color:red;">离散Hopfield神经网络</u>的一种变型，通过对网络加以扰动，使其以概率的形式表达。
 
+---
 <div style="page-break-after: always;"></div>
 
 # 11
@@ -112,7 +115,7 @@ test123
 - 9、胶囊网络的核心思想：胶囊里封装的检测特征的相关信息是以<u style="color:red;">向量</u>的形式存在的，胶囊的输入是一个<u style="color:red;">向量</u>，是用一组神经元来表示多个特征。
 - 10、生成对抗网络中，两个网络相互对抗的过程，就是各自网络参数不断调整的过程，即<u style="color:red;">学习过程</u>。
 
-
+---
 <div style="page-break-after: always;"></div>
 
 # 12
@@ -123,6 +126,7 @@ test123
 3. 简述卷积神经网络的关键技术
 ***P255 【8.8】 【8.9】***
 
+---
 <div style="page-break-after: always;"></div>
 
 ### 群体智能
@@ -133,6 +137,7 @@ test123
 - 信息素规则是越靠近食物播撒的信息素<u style="color:red;">越多</u>，越离开食物播撒的信息素<u style="color:red;">越少</u>。
 - <u style="color:red;">蚂蚁圈系统</u>利用的是全局信息 \( Q/L_k \)，即蚂蚁完成一个循环后，更新所有路径上的信息。
 
+---
 <div style="page-break-after: always;"></div>
 
 ### 专家系统
@@ -141,3 +146,6 @@ test123
 - 一个学习系统一般应该由<u style="color:red;">环境、学习、知识库、执行与评价</u>等四个基本部分组成。
 - 知识发现和数据挖掘的目的是从数据集中<u style="color:red;">抽取和精化</u>一般规律或模式。
 - KAS系统是由PROSPECTOR系统抽去原有的地质勘探知识而形成的，适用于开发<u style="color:red;">解释型</u>专家系统。
+
+---
+<div style="page-break-after: always;"></div>
