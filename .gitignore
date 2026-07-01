@@ -5,4 +5,4 @@ Thumbs.db
 .directory
 .obsidian-git-log.txt
 *.swp
-
+.DS_Store
